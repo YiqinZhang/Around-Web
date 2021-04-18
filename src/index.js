@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './components/App';
-import registerServiceWorker from './registerServiceWorker';
+import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom'
 
 
@@ -11,4 +11,4 @@ ReactDOM.render(
         <App />
     </BrowserRouter>
     , document.getElementById('root'));
-registerServiceWorker();
+reportWebVitals();

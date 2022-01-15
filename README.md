@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Around 
+
+
+GoAround is a full-stack web application for users to share photos and videos and publish posts. The frontend is created with React, and the backend is developed using *Go*. 
+
+Built user-friendly webpages for users to create and browse posts and search nearby posts using Google Map API and GeoLocation API. Implemented "Create New Post", "Posts Around Me", "Posts In Map" with Ant Design.
+
+Improved the authentication using token-based registration/login/logout flow with React Router v4 and server-side user authentication with JWT.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
